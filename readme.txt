@@ -51,6 +51,9 @@ You can modify the template assigned to a level in the fifth column and click on
 
 == Changelog ==
 
+= 1.2 =
+* Plugin to delete.
+
 = 1.1 =
 * Better description.
 
@@ -58,6 +61,9 @@ You can modify the template assigned to a level in the fifth column and click on
 * First release.
 
 == Upgrade Notice ==
+
+= 1.2 =
+Plugin to delete.
 
 = 1.1 =
 Better description.
