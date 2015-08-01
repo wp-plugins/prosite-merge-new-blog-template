@@ -51,10 +51,16 @@ You can modify the template assigned to a level in the fifth column and click on
 
 == Changelog ==
 
+= 1.1 =
+* Better description.
+
 = 1.0 =
 * First release.
 
 == Upgrade Notice ==
+
+= 1.1 =
+Better description.
 
 = 1.0 =
 This is the first release.

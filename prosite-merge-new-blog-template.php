@@ -4,7 +4,7 @@ Plugin Name: Prosite Merge New Blog Template
 Plugin URI: http://www.voltairemakeit.com
 Description: Automatically assigned a template (New Blog Templates) to a level (Pro Sites)
 Author: Voltaire Make It
-Version: 1.0
+Version: 1.1
 Author URI: http://www.voltairemakeit.com
 Network: true
 License: GPLv2 or later
