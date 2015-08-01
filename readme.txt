@@ -14,7 +14,7 @@ Automatically assigned a template (New Blog Templates) to a level (Pro Sites)
 
 With the Prosite Merge New Blog Template you can allocate New Blog Templates to Pro Sites levels. The user who register choose a level and a template is automatically chosen. Prosite Merge New Blog Template works with New Blog Templates plugin from WPMUDEV and Pro Sites plugin from WPMUDEV. Pre Made Blog Template can be easily assigned to each Level at the sign up easily.
 
-This is an add-on to the beautiful plugins New Blog Templates and Pro Sites levels from WPMUDEV. If If something is broken, don't blame them.  See [http://wpmudev.com](http://wpmudev.com) for the official, original plugins.
+This is an add-on to the beautiful plugins New Blog Templates and Pro Sites levels from WPMUDEV (you need those first). If If something is broken, don't blame them.  See [http://wpmudev.com](http://wpmudev.com) for the official, original plugins.
 
 It's been a feature waited for years by the users of WPMUDEV plugins ;)
 
@@ -29,7 +29,7 @@ e.g.
 
 == Frequently Asked Questions ==
 
-= Do I need the New Blog Templates and Pro Sites to make the Prosite Merge New Blog Template =
+= Do I need the New Blog Templates and Pro Sites to make the Prosite Merge New Blog Template working =
 
 Yes.
 
