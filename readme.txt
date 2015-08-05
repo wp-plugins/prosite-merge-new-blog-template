@@ -4,11 +4,12 @@ Donate link: none
 Tags: new blog templates, prosites, wpmudev
 Requires at least: 4.2.2
 Tested up to: 4.2.2
-Stable tag: 1.1
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Automatically assigned a template (New Blog Templates) to a level (Pro Sites)
+This plugin is replaced by [https://wordpress.org/support/plugin/prosite-level-new-blog-template](https://wordpress.org/support/plugin/prosite-level-new-blog-template).
 
 == Description ==
 
@@ -51,6 +52,9 @@ You can modify the template assigned to a level in the fifth column and click on
 
 == Changelog ==
 
+= 1.3 =
+* Redirection to the new plugin.
+
 = 1.2 =
 * Plugin to delete.
 
@@ -61,6 +65,9 @@ You can modify the template assigned to a level in the fifth column and click on
 * First release.
 
 == Upgrade Notice ==
+
+= 1.3 =
+Redirection to the new plugin.
 
 = 1.2 =
 Plugin to delete.
